@@ -1,0 +1,52 @@
+.timer_hours, .timer_minutes, .timer_seconds {
+  width: 40px;
+}
+
+.timer {
+  margin: 0 auto;
+  width: 300px;
+  font-size: 40px;
+  color: #222FC7;
+  margin-top: 100px;
+}
+
+.separator {
+  width: 5px;
+}
+
+.buttons {
+  margin: 0 auto;
+  width: 200px;
+  margin-top: 30px;
+}
+
+.buttons input {
+  width: 80px;
+}
+
+.red {
+  width: 100px;
+  background: red;
+  height: 100px;
+}
+
+
+.blue {
+  width: 100px;
+  background: blue;
+  height: 100px;
+  display: none;
+}
+
+
+.green {
+  width: 100px;
+  background: green;
+  height: 100px;
+  display: none;
+}
+
+.tab {
+  display: inline-block;
+  margin-right: 50px;
+}
